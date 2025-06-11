@@ -1,7 +1,6 @@
 ## Hi, I'm Vinicius Marcon 👋
 Computer Science student at PUCPR | 📊 Data Scientist @ MeetRox
 
----
 
 Passionate about solving real-world problems through data, analytics, and AI
 
@@ -11,10 +10,7 @@ Right now, I work as a Data Scientist with a focus on business intelligence. My 
 
 ### Tech Stack & Tools
 
---- 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,pandas,streamlit,jupyter,metabase,flask,seaborn,matplotlib,postgres,mysql,git,github,slack,obsidian,excel&titles=true)
-
----
 
 ### Let’s Connect!
 
@@ -25,4 +21,3 @@ You can contact me directly via [LinkedIn](https://www.linkedin.com/in/vinicius-
 
 Thanks for stopping by! 👋
 
----

@@ -8,7 +8,7 @@ Right now, I work as a Data Scientist with a focus on business intelligence. My 
 
 
 
-## Tech Stack & Tools
+## Tech Stack and Tools
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,pandas,streamlit,jupyter,metabase,flask,seaborn,matplotlib,postgres,mysql,git,github,slack,obsidian,excel&titles=true)
 
 ## Let’s Connect!

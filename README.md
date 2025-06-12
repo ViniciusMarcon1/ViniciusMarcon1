@@ -32,5 +32,5 @@ If you’re interested in collaborating, feel free to reach out — I’d love t
 
 You can contact me directly via [LinkedIn](https://www.linkedin.com/in/vinicius-marcon/)
 
-Thanks for stopping by!
+Thanks for stopping by! (And yes, I wrote this myself — GPT just gave me a nudge.)
 

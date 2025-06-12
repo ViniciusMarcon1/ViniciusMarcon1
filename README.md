@@ -6,7 +6,14 @@ Data Scientist @ MeetRox | Computer Science student @ PUCPR
 
 Right now, I work as a Data Scientist with a focus on business intelligence. My path has always been a blend of tech, analysis, and a real desire to solve meaningful, real-world problems. I’ve been diving deeper into machine learning and AI, not just to use the tools, but to really understand why and how they work.
 
+My background isn’t just technical — before transitioning into data, I worked as an enterprise account executive. Back then, I was always trying to get to the real root of a client’s problem so I could actually help, not just sell. The deeper I dive into tech, the more I believe I can do that in a much more impactful way — by building better, smarter solutions!
+
+I really value clean, interpretable solutions that focus on what actually matters, rather than overcomplicating things or just scratching the surface. Whether I’m building dashboards or running experiments, I always try to stay grounded in the real questions the business is trying to answer.
+
+
 ## Tech Stack and Tools
+
+Most of my work today involves Python, SQL, and Power BI — but I’m always exploring new tools and frameworks to keep learning and growing.
 
 **Projects and Data Analysis:**
 
